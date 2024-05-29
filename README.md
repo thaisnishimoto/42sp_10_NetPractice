@@ -25,3 +25,15 @@ This project is about solving networking problems to make a network run. Example
 <h2>
 Main Concepts
 </h2>
+
+<h3>
+IP Address (IPv4)
+</h3>
+
+<h3>
+Switch
+</h3>
+
+<h3>
+Router
+</h3>
