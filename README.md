@@ -18,3 +18,10 @@
 <h2>
 About the Project
 </h2>
+
+This project is about solving networking problems to make a network run. Example:
+
+
+<h2>
+Main Concepts
+</h2>
